@@ -135,7 +135,7 @@ const SideBar = ({ open, handleDrawerClose }) => {
           transition: "0.25s",
         }}
         alt="Remy Sharp"
-        src="public/img/mos.jpg"
+        src="/img/mos.jpg"
       />
       <Typography
         align="center"
